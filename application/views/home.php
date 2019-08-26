@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description"
-        content="Jasa bikin web  di banjarmasin, banjarbaru, Martapura. Freelance full stack PHP/Codeigniter/Laravel/WordPress/Lumen/APIs developer based in Banjarbaru">
+        content="Jasa bikin web di banjarmasin, banjarbaru, Martapura. Freelance full stack PHP/Codeigniter/Laravel/WordPress/Lumen/APIs developer based in Banjarbaru">
 
     <title>Freelance PHP Developer Banjarmasin (REST APIs, Codeigniter)</title>
     <!-- Bootstrap CSS -->
