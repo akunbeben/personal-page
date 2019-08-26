@@ -5,17 +5,22 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?= base_url('assets/'); ?>style.css">
-    <link href="https://fonts.googleapis.com/css?family=Hind|Lobster&display=swap" rel="stylesheet">
-    <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300' rel='stylesheet' type='text/css'>
-    <link href="<?= base_url('assets/'); ?>fontawesome/css/all.css" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/29a5325f7a.js"></script>
-    <link rel="shortcut icon" href="<?= base_url('assets/images/'); ?>favicon.png" type="image/x-icon">
+    <meta name="description"
+        content="Jasa bikin web  di banjarmasin, banjarbaru, Martapura. Freelance full stack PHP/Codeigniter/Laravel/WordPress/Lumen/APIs developer based in Banjarbaru">
 
     <title>Freelance PHP Developer Banjarmasin (REST APIs, Codeigniter)</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Hind|Lobster&display=swap" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300' rel='stylesheet' type='text/css'>
+    <!-- plugin -->
+    <script src="https://kit.fontawesome.com/29a5325f7a.js"></script>
+    <link href="<?= base_url('assets/'); ?>fontawesome/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>style.css">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="<?= base_url('assets/images/'); ?>favicon.png" type="image/x-icon">
+
 </head>
 
 <body>
