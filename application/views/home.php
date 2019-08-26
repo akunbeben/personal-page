@@ -11,9 +11,9 @@
     <link rel="stylesheet" href="<?= base_url('assets/'); ?>style.css">
     <link href="https://fonts.googleapis.com/css?family=Hind|Lobster&display=swap" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,100,200,300' rel='stylesheet' type='text/css'>
-    <link href="<?= base_url('assets/images/'); ?>fontawesome/css/all.css" rel="stylesheet">
+    <link href="<?= base_url('assets/'); ?>fontawesome/css/all.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/29a5325f7a.js"></script>
-    <link rel="shortcut icon" href="<?= base_url('assets/'); ?>favicon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="<?= base_url('assets/images/'); ?>favicon.png" type="image/x-icon">
 
     <title>Freelance PHP Developer Banjarmasin (REST APIs, Codeigniter)</title>
 </head>
