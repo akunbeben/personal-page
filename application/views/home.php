@@ -79,7 +79,8 @@
                             <div class="card text-center" id="akunbeben-card-j">
                                 <div class="card-body">
                                     <h5 class="card-title">Back-End</h5>
-                                    <p class="card-text">Utilising PHP frameworks such as Codeigniter, laravel or
+                                    <p class="card-text">Utilising PHP frameworks such as Node.js, Codeigniter, laravel
+                                        or
                                         creating native PHP code,
                                         including REST APIs.</p>
                                 </div>
