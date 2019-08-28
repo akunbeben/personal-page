@@ -54,14 +54,15 @@
                         Indonesia. With experience in front-end (HTML5, CSS3, Javascript)
                         and back-end
                         (REST
-                        APIs, Codeigniter, Node.js) I help create interactive solutions for a variety of clients. Available
+                        APIs, Codeigniter, Node.js) I help create interactive solutions for a variety of clients.
+                        Available
                         09.00am - 05.00pm phone / email / whatsapp.
                     </p>
                     <hr>
                     <div class="col-md-8 col-sm" id="akunbeben-img-fluid">
                         <a href="<?= base_url('assets/images/') . 'code.png'; ?>" data-lightbox="code">
                             <img src="<?= base_url('assets/images/') . 'code.png'; ?>" class="img-fluid"
-                                data-lightbox="code" alt="Responsive image">
+                                data-lightbox="code-1" alt="Responsive image">
                         </a>
                     </div>
                     <div class="row">
