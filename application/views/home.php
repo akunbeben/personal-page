@@ -60,9 +60,9 @@
                     </p>
                     <hr>
                     <div class="col-md-8 col-sm" id="akunbeben-img-fluid">
-                        <a href="<?= base_url('assets/images/') . 'code.png'; ?>" data-lightbox="code">
+                        <a href="<?= base_url('assets/images/') . 'code.png'; ?>" data-lightbox="example-1">
                             <img src="<?= base_url('assets/images/') . 'code.png'; ?>" class="img-fluid"
-                                data-lightbox="code-1" alt="Responsive image">
+                                alt="Responsive image">
                         </a>
                     </div>
                     <div class="row">
