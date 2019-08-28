@@ -53,7 +53,7 @@
                         Indonesia. With experience in front-end (HTML5, CSS3, Javascript)
                         and back-end
                         (REST
-                        APIs, Codeigniter) I help create interactive solutions for a variety of clients. Available
+                        APIs, Codeigniter, Node.js) I help create interactive solutions for a variety of clients. Available
                         09.00am - 05.00pm phone / email / whatsapp.
                     </p>
                     <hr>
