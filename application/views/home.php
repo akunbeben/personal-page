@@ -18,6 +18,7 @@
     <script src="https://kit.fontawesome.com/29a5325f7a.js"></script>
     <link href="<?= base_url('assets/'); ?>fontawesome/css/all.css" rel="stylesheet">
     <link rel="stylesheet" href="<?= base_url('assets/'); ?>style.css">
+    <link rel="stylesheet" href="<?= base_url('assets/'); ?>node_modules/lightbox2/dist/css/lightbox.css">
     <!-- Favicon -->
     <link rel="shortcut icon" href="<?= base_url('assets/images/'); ?>favicon.png" type="image/x-icon">
 
@@ -58,8 +59,10 @@
                     </p>
                     <hr>
                     <div class="col-md-8 col-sm" id="akunbeben-img-fluid">
-                        <img src="<?= base_url('assets/images/') . 'code.png'; ?>" class="img-fluid"
-                            alt="Responsive image">
+                        <a href="<?= base_url('assets/images/') . 'code.png'; ?>" data-lightbox="code">
+                            <img src="<?= base_url('assets/images/') . 'code.png'; ?>" class="img-fluid"
+                                data-lightbox="code" alt="Responsive image">
+                        </a>
                     </div>
                     <div class="row">
                         <div class="col-md-6 col-lg mt-4">
@@ -196,6 +199,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
     </script>
+    <script src="<?= base_url('assets/'); ?>node_modules/lightbox2/dist/js/lightbox.js"></script>
 </body>
 
 </html>
