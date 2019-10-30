@@ -157,25 +157,15 @@
             <div class="row justify-content-between">
                 <div class="col-md-4 col-lg text-center">
                     <i id="akunbeben-item" class="fas fa-phone fa-5x"></i>
-                </div>
-                <div class="col-md-4 col-lg text-center">
-                    <i id="akunbeben-item" class="fas fa-envelope fa-5x"></i>
-                </div>
-                <div class="col-md-4 col-lg text-center">
-                    <i id="akunbeben-item" class="fas fa-map-marker fa-5x"></i>
-                </div>
-            </div>
-            <div class="row justify-content-between">
-                <div class="col-md-4 col-lg text-center">
                     <a id="akunbeben-link" href="tel:082253054008">+62 822 53054008</a>
                 </div>
                 <div class="col-md-4 col-lg text-center">
+                    <i id="akunbeben-item" class="fas fa-envelope fa-5x"></i>
                     <a id="akunbeben-link" href="mailto:akunbeben@gmail.com">akunbeben@gmail.com</a>
                 </div>
                 <div class="col-md-4 col-lg text-center">
-                    <a id="akunbeben-link"
-                        href="https://www.google.com/maps/place/TOKO+BAJU+%22KEKE%22/@-3.4265776,114.7273695,19z/data=!4m13!1m7!3m6!1s0x2de682c593a1ef5d:0x46581585104f01b4!2sJl.+Sukamara,+Landasan+Ulin+Bar.,+Kec.+Liang+Anggang,+Kota+Banjar+Baru,+Kalimantan+Selatan+70723!3b1!8m2!3d-3.4311057!4d114.7278357!3m4!1s0x0:0x6293d8d3560d7681!8m2!3d-3.4267069!4d114.7276282"
-                        target="_blank">Banjarbaru</a>
+                    <i id="akunbeben-item" class="fas fa-map-marker fa-5x"></i>
+                    <a id="akunbeben-link" href="https://www.google.com/maps/place/TOKO+BAJU+%22KEKE%22/@-3.4265776,114.7273695,19z/data=!4m13!1m7!3m6!1s0x2de682c593a1ef5d:0x46581585104f01b4!2sJl.+Sukamara,+Landasan+Ulin+Bar.,+Kec.+Liang+Anggang,+Kota+Banjar+Baru,+Kalimantan+Selatan+70723!3b1!8m2!3d-3.4311057!4d114.7278357!3m4!1s0x0:0x6293d8d3560d7681!8m2!3d-3.4267069!4d114.7276282" target="_blank">Banjarbaru</a>
                 </div>
             </div>
         </div>
