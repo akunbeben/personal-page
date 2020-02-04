@@ -118,18 +118,18 @@
             <hr>
             <div class="row justify-content-between">
                 <div class="col-md-4 col-lg text-center mt-2">
-                    <img src="<?= base_url('assets/images/') . 'pos-cafe.png'; ?>" class="img-fluid mb-2"
+                    <img src="<?= base_url('assets/images/') . 'dashboard.png'; ?>" class="img-fluid mb-2"
                         alt="Responsive image">
-                    <h4><a id="akunbeben-link" href="https://pos-cafe.herokuapp.com/">Point Of Sales - Cafe</a></h4>
-                    <p>Link above just for demo the app. Point of sales included invoicing system, Reporting,
-                        Reservations.</p>
+                    <h4><a id="akunbeben-link" href="https://akunbeben.herokuapp.com/assets/images/dashboard_detail.png">SSRS - Daily Fleet Status</a></h4>
+                    <p>I've create business intelligence project called Dashboard Operation for PT. Adaro Logistic using SSRS (SQL Server Reporting Services),
+                    This is one of the report result, Daily Fleet Status for the business analyst.</p>
                 </div>
                 <div class="col-md-4 col-lg text-center mt-2">
-                    <img src="<?= base_url('assets/images/') . 'xtring.png'; ?>" class="img-fluid mb-2"
+                    <img src="<?= base_url('assets/images/') . 'petshop.png'; ?>" class="img-fluid mb-2"
                         alt="Responsive image">
-                    <h4><a id="akunbeben-link" href="https://github.com/akunbeben/xtring">xTring Projects Manager</a>
+                    <h4><a id="akunbeben-link" href="https://github.com/akunbeben/petshop">Holy Petshop</a>
                     </h4>
-                    <p>Experimental open-source app that can manage projects, task, and version control.</p>
+                    <p>Petshop Point of Sales, and more features.</p>
                 </div>
                 <div class="col-md-4 col-lg text-center mt-2">
                     <img src="<?= base_url('assets/images/') . 'pmp2l.png'; ?>" class="img-fluid mb-2"
