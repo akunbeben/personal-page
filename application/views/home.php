@@ -49,7 +49,7 @@
                         and back-end
                         (REST
                         APIs, C# ASP.NET, PHP: Codeigniter & Laravel, Node.js: Adonisjs, Expressjs) I help create interactive solutions for a variety of clients.
-                        Drop me a <span class="badge badge-primary"><a href="mailto:akunbeben@gmail.com">Email</a></span> if you need help. Or you want to hire me? here is my <span class="badge badge-primary"><a href="<?= base_url('assets/' . 'resume.pdf'); ?>">Resume</a></span>.
+                        Drop me a <span class="badge badge-primary"><a class="text-light" href="mailto:akunbeben@gmail.com">Email</a></span> if you need help. Or you want to hire me? here is my <span class="badge badge-primary"><a class="text-light" href="<?= base_url('assets/' . 'resume.pdf'); ?>">Resume</a></span>.
                     </p>
                     <hr>
                     <div class="col-md-8 col-sm" id="akunbeben-img-fluid">
