@@ -31,9 +31,11 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav ml-auto">
-                    <a class="navbar-brand" id="akunbeben-nav" target="_blank" href="https://instagram.com/akunbeben" title="Want to know my daiy life? Click it."><i class="fab fa-instagram"></i></a>
-                    <a class="navbar-brand" id="akunbeben-nav" target="_blank" href="https://github.com/akunbeben" title="In this place, i store all of my works."><i class="fab fa-github"></i></a>
-                    <a class="navbar-brand" id="akunbeben-nav" target="_blank" href="https://linkedin.com/in/akunbeben" title="You need a team? Yea, you can hire me."><i class="fab fa-linkedin"></i></a>
+                    <a class="navbar-brand" id="akunbeben-nav" target="_blank" href="https://instagram.com/akunbeben" data-toggle="tooltip" data-placement="right" title="Want to know my daiy life? Click it."><i class="fab fa-instagram"></i></a>
+                    <a class="navbar-brand" id="akunbeben-nav" target="_blank" href="https://github.com/akunbeben" data-toggle="tooltip" data-placement="right" title="In this place, i store all of my works."><i class="fab fa-github"></i></a>
+                    <a class="navbar-brand" id="akunbeben-nav" target="_blank" href="https://linkedin.com/in/akunbeben" data-toggle="tooltip" data-placement="right" title="You need a team? Yea, you can hire me."><i class="fab fa-linkedin"></i></a>
+                    <a class="navbar-brand" id="akunbeben-nav" target="_blank" href="mailto:akunbeben@gmail.com" data-toggle="tooltip" data-placement="right" title="You have a question? feel free to reach me."><i class="fas fa-envelope"></i></a>
+                    <a class="navbar-brand" id="akunbeben-nav" target="_blank" href="<?= base_url('assets/' . 'resume.pdf'); ?>" data-toggle="tooltip" data-placement="right" title="Want to know me professionally? Here is my resume."><i class="fa fa-file-text"></i></a>
                 </div>
             </div>
         </div>
@@ -184,7 +186,12 @@
     </script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
     </script>
-    <script src="<?= base_url('assets/'); ?>node_modules/lightbox2/dist/js/lightbox.js"></script>
+
+    <script>
+        $(function() {
+            $('[data-toggle="tooltip"]').tooltip()
+        });
+    </script>
 </body>
 
 </html>
