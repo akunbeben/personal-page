@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Jasa bikin web di banjarmasin, banjarbaru, Martapura. Freelance full stack PHP / Codeigniter / Laravel / WordPress / Lumen / APIs developer based in Banjarbaru">
 
-    <title>Freelance Web Developer</title>
+    <title>Fullstack Web Developer</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <!-- Fonts -->
