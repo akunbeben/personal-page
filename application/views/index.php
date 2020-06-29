@@ -171,7 +171,7 @@
     <section>
         <div class="container">
             <div id="akunbeben-footer" class="col-lg text-center">
-                <p><strong>Copyright &copy; 2018 - 2020. Originally Designed and Developed by </strong><a id="akunbeben-nav" href="https://instagram.com/akunbeben">akunbeben</a></p>
+                <p><strong>Copyright &copy; 2019 Designed and Developed by </strong><a id="akunbeben-nav" href="https://instagram.com/akunbeben">akunbeben</a></p>
             </div>
         </div>
     </section>
