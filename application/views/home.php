@@ -47,7 +47,7 @@
                 <div class="container">
                     <h1 class="display-4 text-center" id="display-4">Fullstack Web Developer</h1>
                     <hr>
-                    <p class="lead text-center" id="lead">Welcome, I'm Benny Rahmat. I'm a fullstack web developer with 3 years of experience.
+                    <p class="lead text-center" id="lead">Welcome, I'm Benny Rahmat. I'm a fullstack web developer with 2 years of experience.
                     </p>
                     <div class="col-md-8 col-sm" id="akunbeben-img-fluid">
                         <a href="<?= base_url('assets/images/') . 'code.png'; ?>" data-lightbox="example-1" target="_blank">
